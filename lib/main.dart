@@ -1,13 +1,13 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
-import 'package:myshoesapp/auth_service.dart';
-import 'package:myshoesapp/pages/home_page.dart';
-import 'package:myshoesapp/pages/login_page.dart';
-import 'package:myshoesapp/pages/phone_getter_page.dart';
-import 'package:myshoesapp/pages/phone_otp.dart';
+import 'package:shoesapp/auth_service.dart';
+import 'package:shoesapp/pages/home_page.dart';
+import 'package:shoesapp/pages/login_page.dart';
+import 'package:shoesapp/pages/phone_getter_page.dart';
+import 'package:shoesapp/pages/phone_otp.dart';
 import 'package:provider/provider.dart';
-import 'package:myshoesapp/providers/counter_provider.dart';
+import 'package:shoesapp/providers/counter_provider.dart';
 
 
 Future main() async {
