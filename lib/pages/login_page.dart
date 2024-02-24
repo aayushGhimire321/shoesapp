@@ -1,8 +1,8 @@
 import 'dart:async';
 // import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:myshoesapp/auth_service.dart';
-import 'package:myshoesapp/components/my_button.dart';
+import 'package:shoesapp/auth_service.dart';
+import 'package:shoesapp/components/my_button.dart';
 import '../components/my_textfield.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:flutter_svg/flutter_svg.dart';
